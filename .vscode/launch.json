@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Lancer EMP_TOPSIS (Debug)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/EMP_TOPSIS/bin/Debug/net10.0-windows/win-x64/EMP_TOPSIS.exe",
+      "args": [],
+      "cwd": "${workspaceFolder}/EMP_TOPSIS/bin/Debug/net10.0-windows/win-x64",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}
