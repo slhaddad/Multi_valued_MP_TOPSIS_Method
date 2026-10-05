@@ -12,7 +12,7 @@
     <AssemblyName>EMP_TOPSIS</AssemblyName>
     <AssemblyTitle>EMP_TOPSIS</AssemblyTitle>
     <Product>EMP_TOPSIS</Product>
-    <Version>2.0.0</Version>
+    <Version>4.0.0</Version>
   </PropertyGroup>
 
   <!-- Publication : exécutable Windows 64 bits autonome, en un seul fichier (aucun .NET requis sur la machine cible) -->
